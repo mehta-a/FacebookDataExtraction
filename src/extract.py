@@ -1,6 +1,5 @@
 import requests
 import json
-import sys
 from pprint import pprint
 
 access_token='<put your access token here>'
